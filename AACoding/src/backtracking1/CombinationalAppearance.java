@@ -1,4 +1,4 @@
-package backtracking;
+package backtracking1;
 
 /*Input :  n = 3
 Output : 3 1 2 1 3 2
